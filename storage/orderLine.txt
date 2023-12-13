@@ -1,0 +1,10 @@
+1,Pizza,1,11.0
+2,Pizza,2,22.0
+3,Pizza,5,55.0
+4,70 Diamond Free Fire,1,10000.0
+5,70 FF diamond,2,20000.0
+6,COC Th 12,1,120000.0
+7,AKun Growtopia,1,100000.0
+8,FIFA 2k23,1,798000.0
+9,Akun ML,1,100000.0
+9,FIFA 2k23,1,798000.0
